@@ -4,7 +4,8 @@ An AI-powered full-stack web application designed to help job seekers optimize t
 
 ## 🌐 Live Demo
 
-🔗 Live Application: https://ai-powered-ats-resume-analyzer-career-jhwn.onrender.com/
+🔗 Live Application: https://nexus-ai-resume-analyzer-frontend.onrender.com/
+🔗 Backend API: https://ats-resume-analyzer-a3p9.onrender.com/
 
 ## 📌 Overview
 
